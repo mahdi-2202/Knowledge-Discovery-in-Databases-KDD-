@@ -16,7 +16,7 @@ The term data mining in this context refers to the fundamental step in the KDD p
 - Nearest Neighbor Classifiers
 
 # Unsupervised Learning
-- Clustering␣␣
+- Clustering.␣␣
   -- Partitioning Methods
   -- Probabilistic Model-Based Methods
   -- Mean-Shift
