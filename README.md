@@ -3,12 +3,33 @@ The term data mining in this context refers to the fundamental step in the KDD p
 
 
 # Data
-
+- Data Representation
+- Visualization
+- Data Reduction
+  
 # Classification
+- Bayesian Classifiers
+- Linear Discriminant Functions
+- Support Vector Machines
+- Kernel Methods
+- Decision Tree Classifiers
+- Nearest Neighbor Classifiers
 
-# Clustering
-
-# Outlier detection
+# Unsupervised Learning
+- Clustering
+  -- Partitioning Methods
+  -- Probabilistic Model-Based Methods
+  -- Mean-Shift
+  -- Density-Based Methods
+  -- Spectral Clustering
+  -- Hierarchical Methods
+- Outlier Detection
+  -- Clustering-based Outliers
+  -- Statistical Outliers
+  -- Distance-based Outliers
+  -- Density-based Outliers
+  -- Angle-based Outliers
+  -- Tree-based Outliers
 
 # Frequent pattern mining
 
