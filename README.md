@@ -18,18 +18,18 @@ The term data mining in this context refers to the fundamental step in the KDD p
 # Unsupervised Learning
 - Clustering
   <br>Partitioning Methods
-  -- Probabilistic Model-Based Methods
-  -- Mean-Shift
-  -- Density-Based Methods
-  -- Spectral Clustering
-  -- Hierarchical Methods
+  <br>Probabilistic Model-Based Methods
+  <br>Mean-Shift
+  <br>Density-Based Methods
+  <br>Spectral Clustering
+  <br>Hierarchical Methods
 - Outlier Detection
-  -- Clustering-based Outliers
-  -- Statistical Outliers
-  -- Distance-based Outliers
-  -- Density-based Outliers
-  -- Angle-based Outliers
-  -- Tree-based Outliers
+  <br>Clustering-based Outliers
+  <br>Statistical Outliers
+  <br>Distance-based Outliers
+  <br>Density-based Outliers
+  <br>Angle-based Outliers
+  <br>Tree-based Outliers
 
 # Frequent pattern mining
 
