@@ -1,6 +1,7 @@
 # Knowledge-Discovery-in-Databases-KDD
 The term data mining in this context refers to the fundamental step in the KDD process, in which the actual analysis of the data is carried out. Data mining is often applied to large amounts of operational data that are managed separately in so-called data warehouses. The frequently used term Business Intelligence describes, among other things, the application of data mining algorithms to the information provided by a data warehouse in order to support targeted decision-making processes. The lecture gives an overview of the basics of the most important KDD techniques. Particularly: Classification, regression/trend detection, clustering, outlier detection, association rules, and process mining.
 
+![](.kdd.png)
 
 # Data
 - Data Representation
